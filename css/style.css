@@ -1,0 +1,21 @@
+*{
+    box-sizing: border-box;
+    background-color: whitesmoke;
+    padding: 10px;
+}
+
+#p1 {
+    background-color: aquamarine;
+}
+#p2 {
+    background-color: rgb(221, 206, 0);
+}
+#p3 {
+    background-color: rgb(255, 60, 0);
+}
+#p4 {
+    background-color: rgb(4, 0, 255);
+}
+nav ul li {
+    display: inline-block;
+}
